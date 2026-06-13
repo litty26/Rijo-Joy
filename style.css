@@ -1701,7 +1701,7 @@ color:#00cfff;
         rgba(1,14,35,.88),
         rgba(1,14,35,.92)
     ),
-    url("/images/bg.png");
+    url("bg.png");
 
     background-size:cover;
     background-position:center;
